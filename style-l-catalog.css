@@ -35,6 +35,14 @@ header {
 
 
 
+#headerpost2 {
+    margin-top: 0px; 
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+
+
 #content {
 	margin-bottom: 30px;
 	overflow: hidden;
@@ -120,6 +128,13 @@ nav li a:hover {
 
 #headerposter img {
 	vertical-align: bottom;
+}
+
+
+
+
+#headerposter2 img {
+    vertical-align: middle;
 }
 
 
